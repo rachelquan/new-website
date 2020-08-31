@@ -3,12 +3,12 @@
     "title": "Personal Website V2",
     "date": "2020-08",
     "description": "My second iteration of my personal website built with the cool kids Gatsby and React so that I can (hopefully) be able to update content quicker and more frequently because now everything can be in Markdown, JSON, or etc..",
-    "url": "https://example.com"
+    "url": "https://github.com/rachelquan/new-website"
   },
   {
     "title": "Personal Website V1",
     "date": "2018-12",
     "description": "My first iteration of my personal website built with good old HTML and CSS. Stopped updating ever since because writing HTML is TEDIOUS.",
-    "url": "https://github.com/rachelquan/rachelquan.github.io"
+    "url": "https://github.com/rachelquan/old-website"
   }
 ]
