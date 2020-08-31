@@ -12,12 +12,12 @@ In all honesty, I'm always trying my best and continuing to figure shit out! Bef
 ## I'm currently..
 
 - Working at [Cisco](http://cisco.com) as a **software engineering intern**!
-- Directing marketing initiatives at [HackDavis](http://hackdavis.io)!
+- Organizing [HackDavis](http://hackdavis.io), UC Davis's annual hackathon!
 
 ## What's next for me..
 
 - Surviving [Operating Systems course](https://cs.ucdavis.edu/schedules-classes/ecs-150-operating-systems-system-programming) 🥵
-- Attending [Grace Hopper Conference](https://cs.ucdavis.edu/schedules-classes/ecs-150-operating-systems-system-programming), my first tech conference ever, as UC Davis's Grace Hopper Scholar! 👩‍💻
+- Attending [Grace Hopper Conference](https://ghc.anitab.org/attend/), my first tech conference ever, as UC Davis's Grace Hopper Scholar! 👩‍💻
 
 ## (Anti)social
 
