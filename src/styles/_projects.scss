@@ -1,0 +1,21 @@
+.project-list {
+  margin: 0;
+  &__content {
+    text-align: left;
+    padding-bottom: 2rem;
+  }
+  &__excerpt {
+    padding-bottom: 2rem;
+  }
+  &__item {
+    display: flex;
+    flex-direction: column;
+    @media (min-width: 800px) {
+      flex-direction: row;
+    }
+  }
+  &__thumbnail {
+    align-self: center;
+    width: 100%;
+  }
+}

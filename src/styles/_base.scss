@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.site {
+  display: flex;
+  min-height: 200vh;
+  flex-direction: column;
+}
+
+.site-content {
+  padding: 0 10rem;
+  flex-grow: 1;
+}
+
+footer {
+  color: rebeccapurple;
+  a {
+    color: rebeccapurple;
+  }
+  padding: 1rem 4rem;
+}
+
+a {
+  color: #1b4965;
+  text-decoration: none;
+
+  &:hover {
+    color: #61a8d3;
+  }
+}
+
+h1 {
+  color: #093e78;
+}
+
+h2 {
+  color: #093e78;
+}

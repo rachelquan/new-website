@@ -1,0 +1,31 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  @media (max-width: 600px) {
+    flex-direction: row;
+  }
+  padding: 1rem 10rem;
+  a {
+    text-decoration: none;
+    &:active {
+      color: #61a8d3;
+    }
+    &:hover {
+      color: #61a8d3;
+    }
+  }
+  nav {
+    align-self: center;
+    a {
+      padding: 0 1rem;
+    }
+  }
+
+  .header {
+    &__link {
+      font-size: 1.3em;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+  }
+}
